@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class Days_002 {
 public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
-    System.out.println("Input Char");
     System.out.print("Nama :");
     System.out.println("Muhammad Naufal. N");
     String n = "D0223325";
@@ -16,3 +14,4 @@ public static void main(String[] args) {
     System.out.printf("NIM : %s\nBerat Badan : %f\nUMUR : %d\nStatus Pernikahan : %b\nGender : %c",n,bb,u,m,jk);
 }
 }
+
